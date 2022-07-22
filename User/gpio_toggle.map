@@ -1,0 +1,1565 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+                              main.o (printf)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+                              main.o (puts)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o) (strlen)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o) (__sinit)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o) (__sfvwrite_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_fwalk)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_global_impure_ptr)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (memchr)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (memcpy)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (memmove)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (memset)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (_free_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_malloc_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (_realloc_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o) (_vfprintf_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (_printf_i)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (__sread)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o) (__swbuf_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_write_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o) (__swsetup_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_close_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o) (_fflush_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_lseek_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o) (__smakebuf_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o) (_read_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o) (errno)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o) (_fstat_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o) (_isatty_r)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o) (_close)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o) (_fstat)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o) (_isatty)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o) (_lseek)
+/Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+                              /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o) (_read)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 main.o
+ .bss           0x0000000000000000        0x0 main.o
+ .text          0x0000000000000000        0x0 system_ch32v30x.o
+ .data          0x0000000000000000        0x0 system_ch32v30x.o
+ .bss           0x0000000000000000        0x0 system_ch32v30x.o
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 system_ch32v30x.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x1b0 system_ch32v30x.o
+ .text          0x0000000000000000        0x0 startup_ch32v30x_D8C.o
+ .data          0x0000000000000000        0x0 startup_ch32v30x_D8C.o
+ .bss           0x0000000000000000        0x0 startup_ch32v30x_D8C.o
+ .text          0x0000000000000000        0x0 ch32v30x_gpio.o
+ .data          0x0000000000000000        0x0 ch32v30x_gpio.o
+ .bss           0x0000000000000000        0x0 ch32v30x_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000       0xea ch32v30x_gpio.o
+ .text.GPIO_AFIODeInit
+                0x0000000000000000       0x2a ch32v30x_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000       0x2c ch32v30x_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000       0x3a ch32v30x_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000       0x1c ch32v30x_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000       0x3a ch32v30x_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000       0x1c ch32v30x_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000       0x22 ch32v30x_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000       0x22 ch32v30x_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000       0x22 ch32v30x_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x5e ch32v30x_gpio.o
+ .text.GPIO_EventOutputConfig
+                0x0000000000000000       0x62 ch32v30x_gpio.o
+ .text.GPIO_EventOutputCmd
+                0x0000000000000000       0x3a ch32v30x_gpio.o
+ .text.GPIO_PinRemapConfig
+                0x0000000000000000      0x1c8 ch32v30x_gpio.o
+ .text.GPIO_EXTILineConfig
+                0x0000000000000000       0xa2 ch32v30x_gpio.o
+ .text.GPIO_ETH_MediaInterfaceConfig
+                0x0000000000000000       0x40 ch32v30x_gpio.o
+ .text          0x0000000000000000        0x0 ch32v30x_usart.o
+ .data          0x0000000000000000        0x0 ch32v30x_usart.o
+ .bss           0x0000000000000000        0x0 ch32v30x_usart.o
+ .text.USART_DeInit
+                0x0000000000000000      0x178 ch32v30x_usart.o
+ .text.USART_StructInit
+                0x0000000000000000       0x48 ch32v30x_usart.o
+ .text.USART_ClockInit
+                0x0000000000000000       0x8e ch32v30x_usart.o
+ .text.USART_ClockStructInit
+                0x0000000000000000       0x32 ch32v30x_usart.o
+ .text.USART_ITConfig
+                0x0000000000000000       0xc4 ch32v30x_usart.o
+ .text.USART_DMACmd
+                0x0000000000000000       0x6e ch32v30x_usart.o
+ .text.USART_SetAddress
+                0x0000000000000000       0x5a ch32v30x_usart.o
+ .text.USART_WakeUpConfig
+                0x0000000000000000       0x5c ch32v30x_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x0000000000000000       0x58 ch32v30x_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x0000000000000000       0x56 ch32v30x_usart.o
+ .text.USART_LINCmd
+                0x0000000000000000       0x60 ch32v30x_usart.o
+ .text.USART_ReceiveData
+                0x0000000000000000       0x26 ch32v30x_usart.o
+ .text.USART_SendBreak
+                0x0000000000000000       0x30 ch32v30x_usart.o
+ .text.USART_SetGuardTime
+                0x0000000000000000       0x62 ch32v30x_usart.o
+ .text.USART_SetPrescaler
+                0x0000000000000000       0x5c ch32v30x_usart.o
+ .text.USART_SmartCardCmd
+                0x0000000000000000       0x5a ch32v30x_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x0000000000000000       0x58 ch32v30x_usart.o
+ .text.USART_HalfDuplexCmd
+                0x0000000000000000       0x58 ch32v30x_usart.o
+ .text.USART_OverSampling8Cmd
+                0x0000000000000000       0x60 ch32v30x_usart.o
+ .text.USART_OneBitMethodCmd
+                0x0000000000000000       0x66 ch32v30x_usart.o
+ .text.USART_IrDAConfig
+                0x0000000000000000       0x54 ch32v30x_usart.o
+ .text.USART_IrDACmd
+                0x0000000000000000       0x58 ch32v30x_usart.o
+ .text.USART_ClearFlag
+                0x0000000000000000       0x2e ch32v30x_usart.o
+ .text.USART_GetITStatus
+                0x0000000000000000      0x102 ch32v30x_usart.o
+ .text.USART_ClearITPendingBit
+                0x0000000000000000       0x4e ch32v30x_usart.o
+ .text          0x0000000000000000        0x0 ch32v30x_rcc.o
+ .data          0x0000000000000000        0x0 ch32v30x_rcc.o
+ .bss           0x0000000000000000        0x0 ch32v30x_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x92 ch32v30x_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x76 ch32v30x_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x68 ch32v30x_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x48 ch32v30x_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000       0x38 ch32v30x_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x74 ch32v30x_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000       0x40 ch32v30x_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x42 ch32v30x_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x1e ch32v30x_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x44 ch32v30x_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x44 ch32v30x_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x4a ch32v30x_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x6c ch32v30x_rcc.o
+ .text.RCC_ADCCLKConfig
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x5e ch32v30x_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000       0x38 ch32v30x_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x24 ch32v30x_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_AHBPeriphClockCmd
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000       0x40 ch32v30x_rcc.o
+ .text.RCC_MCOConfig
+                0x0000000000000000       0x22 ch32v30x_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x8e ch32v30x_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x20 ch32v30x_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x36 ch32v30x_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000       0x22 ch32v30x_rcc.o
+ .text.RCC_PREDIV1Config
+                0x0000000000000000       0x50 ch32v30x_rcc.o
+ .text.RCC_PREDIV2Config
+                0x0000000000000000       0x44 ch32v30x_rcc.o
+ .text.RCC_PLL2Config
+                0x0000000000000000       0x48 ch32v30x_rcc.o
+ .text.RCC_PLL2Cmd
+                0x0000000000000000       0x40 ch32v30x_rcc.o
+ .text.RCC_PLL3Config
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_PLL3Cmd
+                0x0000000000000000       0x40 ch32v30x_rcc.o
+ .text.RCC_OTGFSCLKConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_I2S2CLKConfig
+                0x0000000000000000       0x3a ch32v30x_rcc.o
+ .text.RCC_I2S3CLKConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_AHBPeriphResetCmd
+                0x0000000000000000       0x46 ch32v30x_rcc.o
+ .text.RCC_ADCCLKADJcmd
+                0x0000000000000000       0x42 ch32v30x_rcc.o
+ .text.RCC_RNGCLKConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_ETH1GCLKConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_ETH1G_125Mcmd
+                0x0000000000000000       0x40 ch32v30x_rcc.o
+ .text.RCC_USBHSConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_USBHSPLLCLKConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_USBHSPLLCKREFCLKConfig
+                0x0000000000000000       0x3c ch32v30x_rcc.o
+ .text.RCC_USBHSPHYPLLALIVEcmd
+                0x0000000000000000       0x40 ch32v30x_rcc.o
+ .text.RCC_USBCLK48MConfig
+                0x0000000000000000       0x3e ch32v30x_rcc.o
+ .text          0x0000000000000000        0x0 ch32v30x_misc.o
+ .data          0x0000000000000000        0x0 ch32v30x_misc.o
+ .bss           0x0000000000000000        0x0 ch32v30x_misc.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x32 ch32v30x_misc.o
+ .text.NVIC_DisableIRQ
+                0x0000000000000000       0x32 ch32v30x_misc.o
+ .text.NVIC_SetPriority
+                0x0000000000000000       0x2a ch32v30x_misc.o
+ .text.NVIC_Init
+                0x0000000000000000      0x272 ch32v30x_misc.o
+ .text          0x0000000000000000        0x0 debug.o
+ .data          0x0000000000000000        0x0 debug.o
+ .bss           0x0000000000000000        0x0 debug.o
+ .text.Delay_Us
+                0x0000000000000000       0x76 debug.o
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .text          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .text          0x0000000000000000      0x138 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .gnu.warning._close
+                0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .gnu.warning._fstat
+                0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .gnu.warning._isatty
+                0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .data          0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+ .bss           0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+ .gnu.warning._read
+                0x0000000000000000        0x0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000048000 xr
+RAM              0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD main.o
+LOAD system_ch32v30x.o
+LOAD startup_ch32v30x_D8C.o
+LOAD ch32v30x_gpio.o
+LOAD ch32v30x_usart.o
+LOAD ch32v30x_rcc.o
+LOAD ch32v30x_misc.o
+LOAD debug.o
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/rv32imac/ilp32/libgcc.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libc_nano.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/rv32imac/ilp32/libgcc.a
+START GROUP
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/rv32imac/ilp32/libgcc.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libc_nano.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a
+END GROUP
+START GROUP
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/rv32imac/ilp32/libgcc.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libc_nano.a
+LOAD /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a
+END GROUP
+                0x0000000000000800                __stack_size = 0x800
+                [!provide]                        PROVIDE (_stack_size = __stack_size)
+
+.init           0x0000000000000000       0x38
+                0x0000000000000000                _sinit = .
+                0x0000000000000000                . = ALIGN (0x4)
+ *(SORT_NONE(.init))
+ .init          0x0000000000000000       0x38 startup_ch32v30x_D8C.o
+                0x0000000000000000                _start
+                0x0000000000000038                . = ALIGN (0x4)
+                0x0000000000000038                _einit = .
+
+.vector         0x0000000000000038      0x1c8
+ *(.vector)
+ .vector        0x0000000000000038      0x1a0 startup_ch32v30x_D8C.o
+                0x0000000000000200                . = ALIGN (0x40)
+ *fill*         0x00000000000001d8       0x28 
+
+.text           0x0000000000000200     0x2584
+                0x0000000000000200                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000000000200       0x72 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+                0x0000000000000200                _printf_r
+                0x0000000000000200                _iprintf_r
+                0x0000000000000238                printf
+                0x0000000000000238                iprintf
+ .text          0x0000000000000272       0x96 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+                0x0000000000000272                _puts_r
+                0x0000000000000300                puts
+ .text          0x0000000000000308       0x12 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+                0x0000000000000308                strlen
+ .text          0x000000000000031a      0x1d0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x000000000000037e                _cleanup_r
+                0x000000000000038a                __sfmoreglue
+                0x00000000000003ce                _cleanup
+                0x00000000000003d4                __sinit
+                0x0000000000000436                __sfp
+                0x00000000000004ce                __sfp_lock_acquire
+                0x00000000000004d0                __sfp_lock_release
+                0x00000000000004d2                __sinit_lock_acquire
+                0x00000000000004d4                __sinit_lock_release
+                0x00000000000004d6                __fp_lock_all
+                0x00000000000004e0                __fp_unlock_all
+ .text          0x00000000000004ea      0x2c2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+                0x00000000000004ea                __sfvwrite_r
+ .text          0x00000000000007ac       0xcc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+                0x00000000000007ac                _fwalk
+                0x000000000000080e                _fwalk_reent
+ .text          0x0000000000000878       0x1a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+                0x0000000000000878                memchr
+ .text          0x0000000000000892       0x16 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+                0x0000000000000892                memcpy
+ .text          0x00000000000008a8       0x26 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+                0x00000000000008a8                memmove
+ .text          0x00000000000008ce       0x10 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+                0x00000000000008ce                memset
+ .text          0x00000000000008de       0xa2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+                0x00000000000008de                _free_r
+ .text          0x0000000000000980       0xda /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000000980                _malloc_r
+ .text          0x0000000000000a5a       0x74 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+                0x0000000000000a5a                _realloc_r
+ .text          0x0000000000000ace      0x2e6 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                0x0000000000000af6                __sfputs_r
+                0x0000000000000b38                __sprint_r
+                0x0000000000000b5a                _vfiprintf_r
+                0x0000000000000b5a                _vfprintf_r
+                0x0000000000000da8                vfiprintf
+                0x0000000000000da8                vfprintf
+ .text          0x0000000000000db4      0x388 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                0x0000000000000db4                _printf_common
+                0x0000000000000ec4                _printf_i
+ .text          0x000000000000113c       0x2c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+                0x000000000000113c                _sbrk_r
+ .text          0x0000000000001168       0xbe /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                0x0000000000001168                __sread
+                0x0000000000001198                __seofread
+                0x000000000000119c                __swrite
+                0x00000000000011ea                __sseek
+                0x0000000000001220                __sclose
+ .text          0x0000000000001226       0xc6 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+                0x0000000000001226                __swbuf_r
+                0x00000000000012e2                __swbuf
+ .text          0x00000000000012ec       0x30 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+                0x00000000000012ec                _write_r
+ .text          0x000000000000131c       0xf8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+                0x000000000000131c                __swsetup_r
+ .text          0x0000000000001414       0x2a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+                0x0000000000001414                _close_r
+ .text          0x000000000000143e      0x1b2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                0x000000000000143e                __sflush_r
+                0x0000000000001578                _fflush_r
+                0x00000000000015d8                fflush
+ .text          0x00000000000015f0       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+                0x00000000000015f0                _lseek_r
+ .text          0x000000000000161e       0xfa /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                0x000000000000161e                __swhatbuf_r
+                0x0000000000001678                __smakebuf_r
+ .text          0x0000000000001718        0x4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                0x0000000000001718                __malloc_lock
+                0x000000000000171a                __malloc_unlock
+ .text          0x000000000000171c       0x14 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+                0x000000000000171c                _malloc_usable_size_r
+ .text          0x0000000000001730       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+                0x0000000000001730                _read_r
+ .text          0x000000000000175e       0x2c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+                0x000000000000175e                _fstat_r
+ .text          0x000000000000178a       0x2a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+                0x000000000000178a                _isatty_r
+ .text          0x00000000000017b4        0xc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+                0x00000000000017b4                _close
+ .text          0x00000000000017c0        0xc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+                0x00000000000017c0                _fstat
+ .text          0x00000000000017cc        0xc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+                0x00000000000017cc                _isatty
+ .text          0x00000000000017d8        0xc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+                0x00000000000017d8                _lseek
+ .text          0x00000000000017e4        0xc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+                0x00000000000017e4                _read
+ *(.text.*)
+ .text.GPIO_Toggle_INIT
+                0x00000000000017f0       0x48 main.o
+                0x00000000000017f0                GPIO_Toggle_INIT
+ .text.main     0x0000000000001838       0x6e main.o
+                0x0000000000001838                main
+ .text.SystemInit
+                0x00000000000018a6       0x98 system_ch32v30x.o
+                0x00000000000018a6                SystemInit
+ .text.SetSysClock
+                0x000000000000193e       0x14 system_ch32v30x.o
+ .text.SetSysClockTo72
+                0x0000000000001952      0x114 system_ch32v30x.o
+ .text.vector_handler
+                0x0000000000001a66       0xbe startup_ch32v30x_D8C.o
+                0x0000000000001a66                NMI_Handler
+                0x0000000000001a68                HardFault_Handler
+                0x0000000000001a6a                Ecall_M_Mode_Handler
+                0x0000000000001a6c                Ecall_U_Mode_Handler
+                0x0000000000001a6e                Break_Point_Handler
+                0x0000000000001a70                SysTick_Handler
+                0x0000000000001a72                SW_Handler
+                0x0000000000001a74                WWDG_IRQHandler
+                0x0000000000001a76                PVD_IRQHandler
+                0x0000000000001a78                TAMPER_IRQHandler
+                0x0000000000001a7a                RTC_IRQHandler
+                0x0000000000001a7c                FLASH_IRQHandler
+                0x0000000000001a7e                RCC_IRQHandler
+                0x0000000000001a80                EXTI0_IRQHandler
+                0x0000000000001a82                EXTI1_IRQHandler
+                0x0000000000001a84                EXTI2_IRQHandler
+                0x0000000000001a86                EXTI3_IRQHandler
+                0x0000000000001a88                EXTI4_IRQHandler
+                0x0000000000001a8a                DMA1_Channel1_IRQHandler
+                0x0000000000001a8c                DMA1_Channel2_IRQHandler
+                0x0000000000001a8e                DMA1_Channel3_IRQHandler
+                0x0000000000001a90                DMA1_Channel4_IRQHandler
+                0x0000000000001a92                DMA1_Channel5_IRQHandler
+                0x0000000000001a94                DMA1_Channel6_IRQHandler
+                0x0000000000001a96                DMA1_Channel7_IRQHandler
+                0x0000000000001a98                ADC1_2_IRQHandler
+                0x0000000000001a9a                USB_HP_CAN1_TX_IRQHandler
+                0x0000000000001a9c                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000000001a9e                CAN1_RX1_IRQHandler
+                0x0000000000001aa0                CAN1_SCE_IRQHandler
+                0x0000000000001aa2                EXTI9_5_IRQHandler
+                0x0000000000001aa4                TIM1_BRK_IRQHandler
+                0x0000000000001aa6                TIM1_UP_IRQHandler
+                0x0000000000001aa8                TIM1_TRG_COM_IRQHandler
+                0x0000000000001aaa                TIM1_CC_IRQHandler
+                0x0000000000001aac                TIM2_IRQHandler
+                0x0000000000001aae                TIM3_IRQHandler
+                0x0000000000001ab0                TIM4_IRQHandler
+                0x0000000000001ab2                I2C1_EV_IRQHandler
+                0x0000000000001ab4                I2C1_ER_IRQHandler
+                0x0000000000001ab6                I2C2_EV_IRQHandler
+                0x0000000000001ab8                I2C2_ER_IRQHandler
+                0x0000000000001aba                SPI1_IRQHandler
+                0x0000000000001abc                SPI2_IRQHandler
+                0x0000000000001abe                USART1_IRQHandler
+                0x0000000000001ac0                USART2_IRQHandler
+                0x0000000000001ac2                USART3_IRQHandler
+                0x0000000000001ac4                EXTI15_10_IRQHandler
+                0x0000000000001ac6                RTCAlarm_IRQHandler
+                0x0000000000001ac8                USBWakeUp_IRQHandler
+                0x0000000000001aca                TIM8_BRK_IRQHandler
+                0x0000000000001acc                TIM8_UP_IRQHandler
+                0x0000000000001ace                TIM8_TRG_COM_IRQHandler
+                0x0000000000001ad0                TIM8_CC_IRQHandler
+                0x0000000000001ad2                RNG_IRQHandler
+                0x0000000000001ad4                FSMC_IRQHandler
+                0x0000000000001ad6                SDIO_IRQHandler
+                0x0000000000001ad8                TIM5_IRQHandler
+                0x0000000000001ada                SPI3_IRQHandler
+                0x0000000000001adc                UART4_IRQHandler
+                0x0000000000001ade                UART5_IRQHandler
+                0x0000000000001ae0                TIM6_IRQHandler
+                0x0000000000001ae2                TIM7_IRQHandler
+                0x0000000000001ae4                DMA2_Channel1_IRQHandler
+                0x0000000000001ae6                DMA2_Channel2_IRQHandler
+                0x0000000000001ae8                DMA2_Channel3_IRQHandler
+                0x0000000000001aea                DMA2_Channel4_IRQHandler
+                0x0000000000001aec                DMA2_Channel5_IRQHandler
+                0x0000000000001aee                ETH_IRQHandler
+                0x0000000000001af0                ETH_WKUP_IRQHandler
+                0x0000000000001af2                CAN2_TX_IRQHandler
+                0x0000000000001af4                CAN2_RX0_IRQHandler
+                0x0000000000001af6                CAN2_RX1_IRQHandler
+                0x0000000000001af8                CAN2_SCE_IRQHandler
+                0x0000000000001afa                OTG_FS_IRQHandler
+                0x0000000000001afc                USBHSWakeup_IRQHandler
+                0x0000000000001afe                USBHS_IRQHandler
+                0x0000000000001b00                DVP_IRQHandler
+                0x0000000000001b02                UART6_IRQHandler
+                0x0000000000001b04                UART7_IRQHandler
+                0x0000000000001b06                UART8_IRQHandler
+                0x0000000000001b08                TIM9_BRK_IRQHandler
+                0x0000000000001b0a                TIM9_UP_IRQHandler
+                0x0000000000001b0c                TIM9_TRG_COM_IRQHandler
+                0x0000000000001b0e                TIM9_CC_IRQHandler
+                0x0000000000001b10                TIM10_BRK_IRQHandler
+                0x0000000000001b12                TIM10_UP_IRQHandler
+                0x0000000000001b14                TIM10_TRG_COM_IRQHandler
+                0x0000000000001b16                TIM10_CC_IRQHandler
+                0x0000000000001b18                DMA2_Channel6_IRQHandler
+                0x0000000000001b1a                DMA2_Channel7_IRQHandler
+                0x0000000000001b1c                DMA2_Channel8_IRQHandler
+                0x0000000000001b1e                DMA2_Channel9_IRQHandler
+                0x0000000000001b20                DMA2_Channel10_IRQHandler
+                0x0000000000001b22                DMA2_Channel11_IRQHandler
+ .text.handle_reset
+                0x0000000000001b24       0xa0 startup_ch32v30x_D8C.o
+                0x0000000000001b24                handle_reset
+ .text.GPIO_Init
+                0x0000000000001bc4      0x22a ch32v30x_gpio.o
+                0x0000000000001bc4                GPIO_Init
+ .text.GPIO_WriteBit
+                0x0000000000001dee       0x38 ch32v30x_gpio.o
+                0x0000000000001dee                GPIO_WriteBit
+ .text.USART_Init
+                0x0000000000001e26      0x232 ch32v30x_usart.o
+                0x0000000000001e26                USART_Init
+ .text.USART_Cmd
+                0x0000000000002058       0x60 ch32v30x_usart.o
+                0x0000000000002058                USART_Cmd
+ .text.USART_SendData
+                0x00000000000020b8       0x2e ch32v30x_usart.o
+                0x00000000000020b8                USART_SendData
+ .text.USART_GetFlagStatus
+                0x00000000000020e6       0x44 ch32v30x_usart.o
+                0x00000000000020e6                USART_GetFlagStatus
+ .text.RCC_GetClocksFreq
+                0x000000000000212a      0x2d4 ch32v30x_rcc.o
+                0x000000000000212a                RCC_GetClocksFreq
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000000023fe       0x46 ch32v30x_rcc.o
+                0x00000000000023fe                RCC_APB2PeriphClockCmd
+ .text.NVIC_PriorityGroupConfig
+                0x0000000000002444       0x1a ch32v30x_misc.o
+                0x0000000000002444                NVIC_PriorityGroupConfig
+ .text.Delay_Init
+                0x000000000000245e       0x42 debug.o
+                0x000000000000245e                Delay_Init
+ .text.Delay_Ms
+                0x00000000000024a0       0x72 debug.o
+                0x00000000000024a0                Delay_Ms
+ .text.USART_Printf_Init
+                0x0000000000002512       0x84 debug.o
+                0x0000000000002512                USART_Printf_Init
+ .text._write   0x0000000000002596       0x76 debug.o
+                0x0000000000002596                _write
+ .text._sbrk    0x000000000000260c       0x5a debug.o
+                0x000000000000260c                _sbrk
+ *(.rodata)
+ *fill*         0x0000000000002666        0x2 
+ .rodata        0x0000000000002668       0x22 main.o
+ *fill*         0x000000000000268a        0x2 
+ .rodata        0x000000000000268c       0x60 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                0x000000000000268c                __sf_fake_stderr
+                0x00000000000026ac                __sf_fake_stdout
+                0x00000000000026cc                __sf_fake_stdin
+ .rodata        0x00000000000026ec       0x58 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.rodata*)
+ .rodata.str1.4
+                0x0000000000002744        0x2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ *fill*         0x0000000000002746        0x2 
+ .rodata.str1.4
+                0x0000000000002748       0x13 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ *fill*         0x000000000000275b        0x1 
+ .rodata.str1.4
+                0x000000000000275c       0x25 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ *(.glue_7)
+ *(.glue_7t)
+ *(.gnu.linkonce.t.*)
+                0x0000000000002784                . = ALIGN (0x4)
+ *fill*         0x0000000000002781        0x3 
+
+.rela.dyn       0x0000000000002784        0x0
+ .rela.init     0x0000000000002784        0x0 main.o
+ .rela.vector   0x0000000000002784        0x0 main.o
+ .rela.text.handle_reset
+                0x0000000000002784        0x0 main.o
+ .rela.text._sbrk
+                0x0000000000002784        0x0 main.o
+ .rela.sdata.curbrk.0
+                0x0000000000002784        0x0 main.o
+
+.fini           0x0000000000002784        0x0
+ *(SORT_NONE(.fini))
+                0x0000000000002784                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (_eitcm = .)
+
+.preinit_array  0x0000000000002784        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000002784        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000002784        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.dalign         0x0000000020000000        0x0 load address 0x0000000000002784
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                PROVIDE (_data_vma = .)
+
+.dlalign        0x0000000000002784        0x0
+                0x0000000000002784                . = ALIGN (0x4)
+                0x0000000000002784                PROVIDE (_data_lma = .)
+
+.data           0x0000000020000000       0x84 load address 0x0000000000002784
+ *(.gnu.linkonce.r.*)
+ *(.data .data.*)
+ .data.APBAHBPrescTable
+                0x0000000020000000       0x10 ch32v30x_rcc.o
+ .data          0x0000000020000010       0x60 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ *(.gnu.linkonce.d.*)
+                0x0000000020000070                . = ALIGN (0x8)
+                0x0000000020000870                PROVIDE (__global_pointer$ = (. + 0x800))
+ *(.sdata .sdata.*)
+ .sdata.SystemCoreClock
+                0x0000000020000070        0x4 system_ch32v30x.o
+                0x0000000020000070                SystemCoreClock
+ .sdata.ADCPrescTable
+                0x0000000020000074        0x4 ch32v30x_rcc.o
+ .sdata.curbrk.0
+                0x0000000020000078        0x4 debug.o
+ .sdata         0x000000002000007c        0x4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                0x000000002000007c                _impure_ptr
+ *(.sdata2.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000020000080                . = ALIGN (0x8)
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ *(.srodata.cst2)
+ *(.srodata .srodata.*)
+ .srodata       0x0000000020000080        0x4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                0x0000000020000080                _global_impure_ptr
+                0x0000000020000084                . = ALIGN (0x4)
+                0x0000000020000084                PROVIDE (_edata = .)
+
+.bss            0x0000000020000084       0x14 load address 0x0000000000002808
+                0x0000000020000084                . = ALIGN (0x4)
+                0x0000000020000084                PROVIDE (_sbss = .)
+ *(.sbss*)
+ .sbss.NVIC_Priority_Group
+                0x0000000020000084        0x4 ch32v30x_misc.o
+                0x0000000020000084                NVIC_Priority_Group
+ .sbss.p_us     0x0000000020000088        0x1 debug.o
+ *fill*         0x0000000020000089        0x1 
+ .sbss.p_ms     0x000000002000008a        0x2 debug.o
+ .sbss          0x000000002000008c        0x8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                0x000000002000008c                __malloc_sbrk_start
+                0x0000000020000090                __malloc_free_list
+ .sbss          0x0000000020000094        0x4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+                0x0000000020000094                errno
+ *(.gnu.linkonce.sb.*)
+ *(.bss*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON*)
+                0x0000000020000098                . = ALIGN (0x4)
+                0x0000000020000098                PROVIDE (_ebss = .)
+                0x0000000020000098                PROVIDE (_end = _ebss)
+                [!provide]                        PROVIDE (end = .)
+
+.stack          0x0000000020007800      0x800
+                0x0000000020007800                PROVIDE (_heap_end = .)
+                0x0000000020007800                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_susrstack = .)
+                0x0000000020008000                . = (. + __stack_size)
+ *fill*         0x0000000020007800      0x800 
+                0x0000000020008000                PROVIDE (_eusrstack = .)
+OUTPUT(gpio_toggle.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000    0x1309b
+ .debug_info    0x0000000000000000      0x33e main.o
+ .debug_info    0x000000000000033e      0x27e system_ch32v30x.o
+ .debug_info    0x00000000000005bc       0x23 startup_ch32v30x_D8C.o
+ .debug_info    0x00000000000005df      0x6cc ch32v30x_gpio.o
+ .debug_info    0x0000000000000cab      0x9ed ch32v30x_usart.o
+ .debug_info    0x0000000000001698      0xb8f ch32v30x_rcc.o
+ .debug_info    0x0000000000002227      0x673 ch32v30x_misc.o
+ .debug_info    0x000000000000289a      0x60d debug.o
+ .debug_info    0x0000000000002ea7      0x8b5 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .debug_info    0x000000000000375c      0x9d2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_info    0x000000000000412e       0xc9 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .debug_info    0x00000000000041f7      0xe6d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_info    0x0000000000005064      0xb38 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_info    0x0000000000005b9c      0x86b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .debug_info    0x0000000000006407      0x808 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000006c0f       0xfc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .debug_info    0x0000000000006d0b       0x24 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .debug_info    0x0000000000006d2f       0x24 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .debug_info    0x0000000000006d53       0x24 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .debug_info    0x0000000000006d77      0x88b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x0000000000007602      0x9d3 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x0000000000007fd5      0x90c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_info    0x00000000000088e1     0x103d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_info    0x000000000000991e      0xdab /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_info    0x000000000000a6c9      0x7c9 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000000ae92      0xa52 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .debug_info    0x000000000000b8e4      0x943 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_info    0x000000000000c227      0x7fa /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_info    0x000000000000ca21      0x8af /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_info    0x000000000000d2d0      0x7b8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_info    0x000000000000da88      0xa25 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_info    0x000000000000e4ad      0x7e5 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_info    0x000000000000ec92      0xb6a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_info    0x000000000000f7fc      0x788 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .debug_info    0x000000000000ff84      0x7ec /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_info    0x0000000000010770      0x7f0 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_info    0x0000000000010f60      0x920 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_info    0x0000000000011880      0x9d2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_info    0x0000000000012252      0x7b8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .debug_info    0x0000000000012a0a       0xda /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .debug_info    0x0000000000012ae4      0x2f3 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .debug_info    0x0000000000012dd7       0xda /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .debug_info    0x0000000000012eb1       0xf2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .debug_info    0x0000000000012fa3       0xf8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.debug_abbrev   0x0000000000000000     0x479e
+ .debug_abbrev  0x0000000000000000      0x1ad main.o
+ .debug_abbrev  0x00000000000001ad      0x181 system_ch32v30x.o
+ .debug_abbrev  0x000000000000032e       0x12 startup_ch32v30x_D8C.o
+ .debug_abbrev  0x0000000000000340      0x1f4 ch32v30x_gpio.o
+ .debug_abbrev  0x0000000000000534      0x1ca ch32v30x_usart.o
+ .debug_abbrev  0x00000000000006fe      0x1ff ch32v30x_rcc.o
+ .debug_abbrev  0x00000000000008fd      0x1b8 ch32v30x_misc.o
+ .debug_abbrev  0x0000000000000ab5      0x243 debug.o
+ .debug_abbrev  0x0000000000000cf8      0x20e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .debug_abbrev  0x0000000000000f06      0x23e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000001144       0x86 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000000000011ca      0x39c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_abbrev  0x0000000000001566      0x20f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_abbrev  0x0000000000001775      0x196 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .debug_abbrev  0x000000000000190b      0x15a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000001a65       0xb8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .debug_abbrev  0x0000000000001b1d       0x14 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .debug_abbrev  0x0000000000001b31       0x14 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000001b45       0x14 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001b59      0x229 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x0000000000001d82      0x2a2 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x0000000000002024      0x20b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_abbrev  0x000000000000222f      0x2e6 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_abbrev  0x0000000000002515      0x266 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_abbrev  0x000000000000277b      0x1bd /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000002938      0x22a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .debug_abbrev  0x0000000000002b62      0x225 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_abbrev  0x0000000000002d87      0x1be /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000002f45      0x1d3 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_abbrev  0x0000000000003118      0x1b7 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_abbrev  0x00000000000032cf      0x29d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_abbrev  0x000000000000356c      0x1c8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_abbrev  0x0000000000003734      0x299 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_abbrev  0x00000000000039cd      0x192 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000000000003b5f      0x18d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_abbrev  0x0000000000003cec      0x1b7 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_abbrev  0x0000000000003ea3      0x21f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_abbrev  0x00000000000040c2      0x1c9 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_abbrev  0x000000000000428b      0x1b7 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .debug_abbrev  0x0000000000004442       0x93 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .debug_abbrev  0x00000000000044d5       0xe1 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .debug_abbrev  0x00000000000045b6       0x93 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .debug_abbrev  0x0000000000004649       0xa6 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .debug_abbrev  0x00000000000046ef       0xaf /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.debug_aranges  0x0000000000000000      0x8e0
+ .debug_aranges
+                0x0000000000000000       0x28 main.o
+ .debug_aranges
+                0x0000000000000028       0x38 system_ch32v30x.o
+ .debug_aranges
+                0x0000000000000060       0x30 startup_ch32v30x_D8C.o
+ .debug_aranges
+                0x0000000000000090       0xa8 ch32v30x_gpio.o
+ .debug_aranges
+                0x0000000000000138      0x100 ch32v30x_usart.o
+ .debug_aranges
+                0x0000000000000238      0x1a8 ch32v30x_rcc.o
+ .debug_aranges
+                0x00000000000003e0       0x40 ch32v30x_misc.o
+ .debug_aranges
+                0x0000000000000420       0x48 debug.o
+ .debug_aranges
+                0x0000000000000468       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000488       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000000000004a8       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000004c8       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_aranges
+                0x00000000000004e8       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_aranges
+                0x0000000000000508       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .debug_aranges
+                0x0000000000000528       0x18 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000540       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .debug_aranges
+                0x0000000000000560       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .debug_aranges
+                0x0000000000000580       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .debug_aranges
+                0x00000000000005a0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x00000000000005e0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x0000000000000600       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_aranges
+                0x0000000000000620       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_aranges
+                0x0000000000000640       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_aranges
+                0x0000000000000660       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000680       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .debug_aranges
+                0x00000000000006a0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_aranges
+                0x00000000000006c0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_aranges
+                0x00000000000006e0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_aranges
+                0x0000000000000700       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_aranges
+                0x0000000000000720       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_aranges
+                0x0000000000000740       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_aranges
+                0x0000000000000760       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_aranges
+                0x0000000000000780       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .debug_aranges
+                0x00000000000007a0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_aranges
+                0x00000000000007c0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_aranges
+                0x00000000000007e0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000800       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_aranges
+                0x0000000000000820       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .debug_aranges
+                0x0000000000000840       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .debug_aranges
+                0x0000000000000860       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .debug_aranges
+                0x0000000000000880       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .debug_aranges
+                0x00000000000008a0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .debug_aranges
+                0x00000000000008c0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.debug_rnglists
+                0x0000000000000000      0x7d2
+ .debug_rnglists
+                0x0000000000000000       0x1f main.o
+ .debug_rnglists
+                0x000000000000001f       0x31 system_ch32v30x.o
+ .debug_rnglists
+                0x0000000000000050       0x21 startup_ch32v30x_D8C.o
+ .debug_rnglists
+                0x0000000000000071       0xaf ch32v30x_gpio.o
+ .debug_rnglists
+                0x0000000000000120      0x112 ch32v30x_usart.o
+ .debug_rnglists
+                0x0000000000000232      0x1cf ch32v30x_rcc.o
+ .debug_rnglists
+                0x0000000000000401       0x3a ch32v30x_misc.o
+ .debug_rnglists
+                0x000000000000043b       0x43 debug.o
+ .debug_rnglists
+                0x000000000000047e       0x28 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_rnglists
+                0x00000000000004a6       0x28 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_rnglists
+                0x00000000000004ce       0x3a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_rnglists
+                0x0000000000000508       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_rnglists
+                0x0000000000000527       0x44 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_rnglists
+                0x000000000000056b       0x28 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_rnglists
+                0x0000000000000593       0x84 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_rnglists
+                0x0000000000000617       0x28 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_rnglists
+                0x000000000000063f       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_rnglists
+                0x000000000000065e       0x3a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_rnglists
+                0x0000000000000698       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_rnglists
+                0x00000000000006b7       0x4e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_rnglists
+                0x0000000000000705       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_rnglists
+                0x0000000000000724       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_rnglists
+                0x0000000000000743       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_rnglists
+                0x0000000000000762       0x32 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_rnglists
+                0x0000000000000794       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_rnglists
+                0x00000000000007b3       0x1f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+
+.debug_line     0x0000000000000000     0x8cd9
+ .debug_line    0x0000000000000000      0x16a main.o
+ .debug_line    0x000000000000016a      0x481 system_ch32v30x.o
+ .debug_line    0x00000000000005eb      0x378 startup_ch32v30x_D8C.o
+ .debug_line    0x0000000000000963      0x94d ch32v30x_gpio.o
+ .debug_line    0x00000000000012b0      0xc29 ch32v30x_usart.o
+ .debug_line    0x0000000000001ed9     0x1337 ch32v30x_rcc.o
+ .debug_line    0x0000000000003210      0x394 ch32v30x_misc.o
+ .debug_line    0x00000000000035a4      0x346 debug.o
+ .debug_line    0x00000000000038ea      0x235 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .debug_line    0x0000000000003b1f      0x2d5 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_line    0x0000000000003df4       0xb5 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .debug_line    0x0000000000003ea9      0x6c1 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_line    0x000000000000456a      0x8f1 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_line    0x0000000000004e5b      0x249 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .debug_line    0x00000000000050a4       0x56 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .debug_line    0x00000000000050fa       0xba /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .debug_line    0x00000000000051b4       0x7a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .debug_line    0x000000000000522e       0x9e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .debug_line    0x00000000000052cc       0x6e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .debug_line    0x000000000000533a      0x31c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x0000000000005656      0x3b7 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x0000000000005a0d      0x18f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_line    0x0000000000005b9c      0x8e3 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_line    0x000000000000647f      0x954 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_line    0x0000000000006dd3      0x104 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x0000000000006ed7      0x282 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .debug_line    0x0000000000007159      0x26b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_line    0x00000000000073c4      0x106 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_line    0x00000000000074ca      0x32a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_line    0x00000000000077f4       0xfe /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_line    0x00000000000078f2      0x5d8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_line    0x0000000000007eca      0x106 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_line    0x0000000000007fd0      0x2fc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_line    0x00000000000082cc       0x8e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .debug_line    0x000000000000835a       0xc3 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_line    0x000000000000841d      0x106 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_line    0x0000000000008523      0x344 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_line    0x0000000000008867      0x123 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_line    0x000000000000898a       0xfe /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .debug_line    0x0000000000008a88       0x6f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .debug_line    0x0000000000008af7       0x95 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .debug_line    0x0000000000008b8c       0x6f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .debug_line    0x0000000000008bfb       0x6f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .debug_line    0x0000000000008c6a       0x6f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.debug_str      0x0000000000000000     0x2647
+ .debug_str     0x0000000000000000      0x345 main.o
+                                        0x39f (size before relaxing)
+ .debug_str     0x0000000000000345       0xd5 system_ch32v30x.o
+                                        0x280 (size before relaxing)
+ .debug_str     0x000000000000041a       0x72 startup_ch32v30x_D8C.o
+ .debug_str     0x000000000000048c      0x220 ch32v30x_gpio.o
+                                        0x529 (size before relaxing)
+ .debug_str     0x00000000000006ac      0x4cd ch32v30x_usart.o
+                                        0x6ce (size before relaxing)
+ .debug_str     0x0000000000000b79      0x533 ch32v30x_rcc.o
+                                        0x87a (size before relaxing)
+ .debug_str     0x00000000000010ac      0x692 ch32v30x_misc.o
+                                        0x883 (size before relaxing)
+ .debug_str     0x000000000000173e       0x75 debug.o
+                                        0x4fa (size before relaxing)
+ .debug_str     0x00000000000017b3      0x376 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+                                        0x4ac (size before relaxing)
+ .debug_str     0x0000000000001b29       0xac /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+                                        0x520 (size before relaxing)
+ .debug_str     0x0000000000001bd5       0xac /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+                                        0x100 (size before relaxing)
+ .debug_str     0x0000000000001bd5      0x1f4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                                        0x6c3 (size before relaxing)
+ .debug_str     0x0000000000001dc9       0x53 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+                                        0x509 (size before relaxing)
+ .debug_str     0x0000000000001e1c        0xf /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+                                        0x47e (size before relaxing)
+ .debug_str     0x0000000000001e2b        0xc /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                                        0x4b7 (size before relaxing)
+ .debug_str     0x0000000000001e37       0x10 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+                                        0x10a (size before relaxing)
+ .debug_str     0x0000000000001e47      0x118 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+                                        0x124 (size before relaxing)
+ .debug_str     0x0000000000001f5f       0x67 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+                                        0x121 (size before relaxing)
+ .debug_str     0x0000000000001fc6       0x66 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+                                        0x120 (size before relaxing)
+ .debug_str     0x000000000000202c       0x7a /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+                                        0x4e6 (size before relaxing)
+ .debug_str     0x00000000000020a6       0x5d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                                        0x545 (size before relaxing)
+ .debug_str     0x0000000000002103       0x2c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+                                        0x4d9 (size before relaxing)
+ .debug_str     0x000000000000212f      0x1e8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                                        0x7eb (size before relaxing)
+ .debug_str     0x0000000000002317       0x58 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                                        0x72a (size before relaxing)
+ .debug_str     0x000000000000236f       0x58 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+                                        0x470 (size before relaxing)
+ .debug_str     0x000000000000236f       0x35 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                                        0x4cb (size before relaxing)
+ .debug_str     0x00000000000023a4        0x8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+                                        0x4dd (size before relaxing)
+ .debug_str     0x00000000000023ac      0x463 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_str     0x00000000000023ac        0xd /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+                                        0x4d6 (size before relaxing)
+ .debug_str     0x00000000000023b9      0x45c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_str     0x00000000000023b9       0x23 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                                        0x517 (size before relaxing)
+ .debug_str     0x00000000000023dc       0x23 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+                                        0x46a (size before relaxing)
+ .debug_str     0x00000000000023dc      0x12d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                                        0x603 (size before relaxing)
+ .debug_str     0x0000000000002509       0x19 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                                        0x484 (size before relaxing)
+ .debug_str     0x0000000000002522        0xf /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+                                        0x4ae (size before relaxing)
+ .debug_str     0x0000000000002531      0x462 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_str     0x0000000000002531       0x2c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+                                        0x498 (size before relaxing)
+ .debug_str     0x000000000000255d        0x6 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+                                        0x5ae (size before relaxing)
+ .debug_str     0x0000000000002563        0x6 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+                                        0x465 (size before relaxing)
+ .debug_str     0x0000000000002563       0x74 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+                                        0x116 (size before relaxing)
+ .debug_str     0x00000000000025d7       0x1c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+                                        0x262 (size before relaxing)
+ .debug_str     0x00000000000025f3       0x1d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+                                        0x116 (size before relaxing)
+ .debug_str     0x0000000000002610       0x1c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+                                        0x114 (size before relaxing)
+ .debug_str     0x000000000000262c       0x1b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+                                        0x112 (size before relaxing)
+
+.debug_line_str
+                0x0000000000000000     0x1635
+ .debug_line_str
+                0x0000000000000000      0x1f3 main.o
+                                        0x246 (size before relaxing)
+ .debug_line_str
+                0x00000000000001f3       0x12 system_ch32v30x.o
+                                        0x1c7 (size before relaxing)
+ .debug_line_str
+                0x0000000000000205       0x2c startup_ch32v30x_D8C.o
+                                         0x7d (size before relaxing)
+ .debug_line_str
+                0x0000000000000231       0x48 ch32v30x_gpio.o
+                                        0x204 (size before relaxing)
+ .debug_line_str
+                0x0000000000000279       0x3e ch32v30x_usart.o
+                                        0x208 (size before relaxing)
+ .debug_line_str
+                0x00000000000002b7       0x2b ch32v30x_rcc.o
+                                        0x1f1 (size before relaxing)
+ .debug_line_str
+                0x00000000000002e2       0x2c ch32v30x_misc.o
+                                        0x1f5 (size before relaxing)
+ .debug_line_str
+                0x000000000000030e       0x7d debug.o
+                                        0x261 (size before relaxing)
+ .debug_line_str
+                0x000000000000038b      0x1fd /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+                                        0x328 (size before relaxing)
+ .debug_line_str
+                0x0000000000000588       0x6f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+                                        0x32c (size before relaxing)
+ .debug_line_str
+                0x00000000000005f7      0x171 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+                                        0x2e0 (size before relaxing)
+ .debug_line_str
+                0x0000000000000768       0x67 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+                                        0x339 (size before relaxing)
+ .debug_line_str
+                0x00000000000007cf       0x5f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+                                        0x33e (size before relaxing)
+ .debug_line_str
+                0x000000000000082e       0x5d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+                                        0x31c (size before relaxing)
+ .debug_line_str
+                0x000000000000088b      0x159 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+                                        0x2d3 (size before relaxing)
+ .debug_line_str
+                0x00000000000009e4      0x15c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+                                        0x2c4 (size before relaxing)
+ .debug_line_str
+                0x0000000000000b40        0xd /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+                                        0x125 (size before relaxing)
+ .debug_line_str
+                0x0000000000000b4d        0xa /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+                                        0x11f (size before relaxing)
+ .debug_line_str
+                0x0000000000000b57        0x9 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+                                        0x11d (size before relaxing)
+ .debug_line_str
+                0x0000000000000b60      0x16b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+                                        0x336 (size before relaxing)
+ .debug_line_str
+                0x0000000000000ccb       0x4c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+                                        0x3a5 (size before relaxing)
+ .debug_line_str
+                0x0000000000000d17      0x33f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_line_str
+                0x0000000000000d17       0xf8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+                                        0x3ec (size before relaxing)
+ .debug_line_str
+                0x0000000000000e0f       0x67 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+                                        0x3f0 (size before relaxing)
+ .debug_line_str
+                0x0000000000000e76       0x5d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+                                        0x31c (size before relaxing)
+ .debug_line_str
+                0x0000000000000ed3       0x5d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+                                        0x32c (size before relaxing)
+ .debug_line_str
+                0x0000000000000f30       0x5c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+                                        0x323 (size before relaxing)
+ .debug_line_str
+                0x0000000000000f8c       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+                                        0x31f (size before relaxing)
+ .debug_line_str
+                0x0000000000000fea       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+                                        0x330 (size before relaxing)
+ .debug_line_str
+                0x0000000000001048       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+                                        0x31f (size before relaxing)
+ .debug_line_str
+                0x00000000000010a6       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+                                        0x330 (size before relaxing)
+ .debug_line_str
+                0x0000000000001104       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+                                        0x31f (size before relaxing)
+ .debug_line_str
+                0x0000000000001162       0x7d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+                                        0x3be (size before relaxing)
+ .debug_line_str
+                0x00000000000011df       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+                                        0x321 (size before relaxing)
+ .debug_line_str
+                0x000000000000123d      0x336 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_line_str
+                0x000000000000123d       0x5d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+                                        0x31c (size before relaxing)
+ .debug_line_str
+                0x000000000000129a       0x5d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+                                        0x31d (size before relaxing)
+ .debug_line_str
+                0x00000000000012f7       0x5e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+                                        0x3a2 (size before relaxing)
+ .debug_line_str
+                0x0000000000001355       0x5f /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+                                        0x322 (size before relaxing)
+ .debug_line_str
+                0x00000000000013b4      0x121 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+                                        0x1aa (size before relaxing)
+ .debug_line_str
+                0x00000000000014d5       0x58 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+                                        0x27e (size before relaxing)
+ .debug_line_str
+                0x000000000000152d       0x59 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+                                        0x1ad (size before relaxing)
+ .debug_line_str
+                0x0000000000001586       0x58 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+                                        0x1aa (size before relaxing)
+ .debug_line_str
+                0x00000000000015de       0x57 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+                                        0x1a7 (size before relaxing)
+
+.comment        0x0000000000000000       0x2d
+ .comment       0x0000000000000000       0x2d main.o
+                                         0x2e (size before relaxing)
+ .comment       0x000000000000002d       0x2e system_ch32v30x.o
+ .comment       0x000000000000002d       0x2e ch32v30x_gpio.o
+ .comment       0x000000000000002d       0x2e ch32v30x_usart.o
+ .comment       0x000000000000002d       0x2e ch32v30x_rcc.o
+ .comment       0x000000000000002d       0x2e ch32v30x_misc.o
+ .comment       0x000000000000002d       0x2e debug.o
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .comment       0x000000000000002d       0x2e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.riscv.attributes
+                0x0000000000000000       0x38
+ .riscv.attributes
+                0x0000000000000000       0x2b main.o
+ .riscv.attributes
+                0x000000000000002b       0x2b system_ch32v30x.o
+ .riscv.attributes
+                0x0000000000000056       0x36 startup_ch32v30x_D8C.o
+ .riscv.attributes
+                0x000000000000008c       0x2b ch32v30x_gpio.o
+ .riscv.attributes
+                0x00000000000000b7       0x2b ch32v30x_usart.o
+ .riscv.attributes
+                0x00000000000000e2       0x2b ch32v30x_rcc.o
+ .riscv.attributes
+                0x000000000000010d       0x2b ch32v30x_misc.o
+ .riscv.attributes
+                0x0000000000000138       0x2b debug.o
+ .riscv.attributes
+                0x0000000000000163       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .riscv.attributes
+                0x000000000000018e       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .riscv.attributes
+                0x00000000000001b9       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .riscv.attributes
+                0x00000000000001e4       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .riscv.attributes
+                0x000000000000020f       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .riscv.attributes
+                0x000000000000023a       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .riscv.attributes
+                0x0000000000000265       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-impure.o)
+ .riscv.attributes
+                0x0000000000000290       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .riscv.attributes
+                0x00000000000002bb       0x29 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memcpy-asm.o)
+ .riscv.attributes
+                0x00000000000002e4       0x29 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memmove.o)
+ .riscv.attributes
+                0x000000000000030d       0x29 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memset.o)
+ .riscv.attributes
+                0x0000000000000336       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .riscv.attributes
+                0x0000000000000361       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .riscv.attributes
+                0x000000000000038c       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .riscv.attributes
+                0x00000000000003b7       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .riscv.attributes
+                0x00000000000003e2       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .riscv.attributes
+                0x000000000000040d       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .riscv.attributes
+                0x0000000000000438       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .riscv.attributes
+                0x0000000000000463       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .riscv.attributes
+                0x000000000000048e       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .riscv.attributes
+                0x00000000000004b9       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .riscv.attributes
+                0x00000000000004e4       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .riscv.attributes
+                0x000000000000050f       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .riscv.attributes
+                0x000000000000053a       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .riscv.attributes
+                0x0000000000000565       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .riscv.attributes
+                0x0000000000000590       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .riscv.attributes
+                0x00000000000005bb       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .riscv.attributes
+                0x00000000000005e6       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .riscv.attributes
+                0x0000000000000611       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .riscv.attributes
+                0x000000000000063c       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .riscv.attributes
+                0x0000000000000667       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .riscv.attributes
+                0x0000000000000692       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .riscv.attributes
+                0x00000000000006bd       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .riscv.attributes
+                0x00000000000006e8       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .riscv.attributes
+                0x0000000000000713       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .riscv.attributes
+                0x000000000000073e       0x2b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.debug_frame    0x0000000000000000     0x1abc
+ .debug_frame   0x0000000000000000       0x54 main.o
+ .debug_frame   0x0000000000000054       0xa8 system_ch32v30x.o
+ .debug_frame   0x00000000000000fc      0x2a0 ch32v30x_gpio.o
+ .debug_frame   0x000000000000039c      0x42c ch32v30x_usart.o
+ .debug_frame   0x00000000000007c8      0x71c ch32v30x_rcc.o
+ .debug_frame   0x0000000000000ee4       0xc8 ch32v30x_misc.o
+ .debug_frame   0x0000000000000fac       0xf0 debug.o
+ .debug_frame   0x000000000000109c       0x54 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000000000010f0       0x48 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_frame   0x0000000000001138       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .debug_frame   0x0000000000001158      0x148 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000000000012a0       0x60 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000000000001300       0x8c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x000000000000138c       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .debug_frame   0x00000000000013ac       0x38 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000000013e4       0x40 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000001424       0x54 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000001478       0xd4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x000000000000154c       0x8c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000000000015d8       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x000000000000160c       0xa4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .debug_frame   0x00000000000016b0       0x50 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x0000000000001700       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_frame   0x0000000000001734       0x3c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x0000000000001770       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_frame   0x00000000000017a4       0x7c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_frame   0x0000000000001820       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x0000000000001854       0x6c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x00000000000018c0       0x30 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000018f0       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000001910       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_frame   0x0000000000001944       0x70 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x00000000000019b4       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00000000000019e8       0x34 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x0000000000001a1c       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .debug_frame   0x0000000000001a3c       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .debug_frame   0x0000000000001a5c       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .debug_frame   0x0000000000001a7c       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .debug_frame   0x0000000000001a9c       0x20 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
+
+.debug_loclists
+                0x0000000000000000     0x26ae
+ .debug_loclists
+                0x0000000000000000       0x94 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-printf.o)
+ .debug_loclists
+                0x0000000000000094      0x11e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-puts.o)
+ .debug_loclists
+                0x00000000000001b2       0x3d /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-strlen.o)
+ .debug_loclists
+                0x00000000000001ef      0x1e8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-findfp.o)
+ .debug_loclists
+                0x00000000000003d7      0x43e /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fvwrite.o)
+ .debug_loclists
+                0x0000000000000815      0x19c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fwalk.o)
+ .debug_loclists
+                0x00000000000009b1       0x73 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-memchr.o)
+ .debug_loclists
+                0x0000000000000a24       0xf8 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-freer.o)
+ .debug_loclists
+                0x0000000000000b1c      0x201 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_loclists
+                0x0000000000000d1d      0x138 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-reallocr.o)
+ .debug_loclists
+                0x0000000000000e55      0x51c /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf.o)
+ .debug_loclists
+                0x0000000000001371      0x540 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_loclists
+                0x00000000000018b1       0x4b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-sbrkr.o)
+ .debug_loclists
+                0x00000000000018fc      0x2aa /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-stdio.o)
+ .debug_loclists
+                0x0000000000001ba6      0x130 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wbuf.o)
+ .debug_loclists
+                0x0000000000001cd6       0x95 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-writer.o)
+ .debug_loclists
+                0x0000000000001d6b       0x75 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-wsetup.o)
+ .debug_loclists
+                0x0000000000001de0       0x4b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-closer.o)
+ .debug_loclists
+                0x0000000000001e2b      0x2ad /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fflush.o)
+ .debug_loclists
+                0x00000000000020d8       0x95 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-lseekr.o)
+ .debug_loclists
+                0x000000000000216d      0x1b4 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-makebuf.o)
+ .debug_loclists
+                0x0000000000002321       0x91 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-nano-msizer.o)
+ .debug_loclists
+                0x00000000000023b2       0x95 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-readr.o)
+ .debug_loclists
+                0x0000000000002447       0xee /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-reent.o)
+ .debug_loclists
+                0x0000000000002535       0x70 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-fstatr.o)
+ .debug_loclists
+                0x00000000000025a5       0x4b /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libg_nano.a(lib_a-isattyr.o)
+ .debug_loclists
+                0x00000000000025f0       0x26 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(close.o)
+ .debug_loclists
+                0x0000000000002616       0x26 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(fstat.o)
+ .debug_loclists
+                0x000000000000263c       0x26 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(isatty.o)
+ .debug_loclists
+                0x0000000000002662       0x26 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(lseek.o)
+ .debug_loclists
+                0x0000000000002688       0x26 /Users/ncpin/csfs/x-tools/riscv32-unknown-elf/lib/gcc/riscv32-unknown-elf/12.1.0/../../../../riscv32-unknown-elf/lib/rv32imac/ilp32/libnosys.a(read.o)
